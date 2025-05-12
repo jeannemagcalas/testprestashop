@@ -1,5 +1,13 @@
 # Prestashop
 
+## Pre reqs
+
+```bash
+1. Download VSCode
+2. Download or Clone this repository
+
+```
+
 ## Setup
 
 ```bash
